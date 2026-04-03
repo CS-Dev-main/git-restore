@@ -1,5 +1,5 @@
 {
-  "apiPath": "https://in-test-ins.starshinetechs.com",
+  "apiPath": "https://in-standard-test.starshinetechs.com",
   "h5Path": "https://app.credistamp.net",
   "version": 1
 }
