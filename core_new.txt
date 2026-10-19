@@ -1,5 +1,5 @@
 {
-  "apiPath": "https://prod.sufintrust.com",
-  "h5Path": "https://h5.sufintrust.com",
-  "version": 1
+  "apiPath": "https://prod.sufintrustpro.com",
+  "h5Path": "https://h5.sufintrustpro.com",
+  "version": 2
 }
